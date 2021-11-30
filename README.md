@@ -29,11 +29,11 @@ content = """
 </head>
 <body>
 <h1>Top five programming language :</h1>
-<h1>Javascript</h1>
-<h1>Java</h1>
-<h1>Ruby</h1>
-<h1>Python</h1>
-<h1>C++</h1>
+<h2>Javascript</h2>
+<h2>Java</h2>
+<h2>Ruby</h2>
+<h2>Python</h2>
+<h2>C++</h2>
 </body>
 </html>
 """
