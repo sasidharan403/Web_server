@@ -2,7 +2,6 @@
 ## AIM:
 To Develop a webserver to display about top five programming languages.
 
-To develop a simple webserver to serve html pages.
 ## DESIGN STEPS:
 ### Step 1:
 HTML content creation
