@@ -50,4 +50,11 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+### Server Side Output
+![Server Side Output](./images/serveroutput.png)
+
+### Clint Side Output
+![Clint Side Output](./images/clintoutput.png)
+
 ## RESULT:
+Thus the webserver is developed to display abouttop five programming languages.
